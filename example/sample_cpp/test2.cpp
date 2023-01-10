@@ -6,7 +6,7 @@
 // #include <drake_ros_core/ros_interface_system.h>
 
 
-int main() {
+int ruff() {
   /* This is a test file which serves as a basic example of how to use the drake_ros_* packages with the
   BAZEL build system. This file is not meant to be run, but rather to be used as a reference for how
   to use the drake_ros_* packages. */
