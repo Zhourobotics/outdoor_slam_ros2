@@ -2,7 +2,7 @@
 #include <drake/systems/framework/diagram_builder.h>
 #include <drake/systems/framework/leaf_system.h>
 
-// #include <drake_ros_core/drake_ros.h>
+#include <drake_ros_core/drake_ros.h>
 // #include <drake_ros_core/ros_interface_system.h>
 
 
